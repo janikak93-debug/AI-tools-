@@ -1,0 +1,53 @@
+Act as an experienced Project Manager and create a detailed 4-week project timeline for developing an AI-Based Smart Timetable Generator for a college campus.
+
+Project Objective:
+Build a smart campus application that automatically generates optimized college timetables using AI, considering faculty availability, subjects, classrooms, student sections and laboratory schedules.
+
+Create a practical 4-week development plan with the following requirements:
+
+WEEK 1 – Planning and Research
+- Define project objectives and requirements.
+- Identify user needs (students, faculty and administrators).
+- Collect sample college timetable data.
+- Select suitable technologies and tools.
+- Prepare the project design and workflow.
+
+WEEK 2 – Design and Development
+- Design the application interface.
+- Create the database structure.
+- Develop faculty, classroom and subject management modules.
+- Build the basic timetable generation system.
+
+WEEK 3 – AI Integration and Testing
+- Integrate AI or optimization algorithms.
+- Implement automatic timetable generation.
+- Detect faculty and classroom scheduling conflicts.
+- Test different timetable combinations.
+- Fix errors and improve performance.
+
+WEEK 4 – Finalization and Deployment
+- Complete the application.
+- Test all major features.
+- Improve the user interface.
+- Prepare project documentation.
+- Demonstrate the working prototype.
+- Collect feedback and make final improvements.
+
+For each week, provide:
+1. Main objectives.
+2. Detailed tasks.
+3. Team member responsibilities.
+4. Expected deliverables.
+5. Estimated time required.
+6. Possible challenges and solutions.
+7. Progress evaluation methods.
+
+FINAL OUTPUT:
+- Present the complete 4-week timeline in a professional table.
+- Include a weekly milestone chart.
+- Create a simple Gantt chart.
+- Identify important project deadlines.
+- Suggest risk management strategies.
+- Include a final project completion checklist.
+
+Make the plan realistic, beginner-friendly, organized and suitable for a college student project team.
