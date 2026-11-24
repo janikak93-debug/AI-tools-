@@ -1,53 +1,52 @@
-Act as a professional Data Analyst and AI Solution Architect.
+Act as a professional Data Analyst 
 
 Analyze how a Smart Campus mobile application can use Artificial Intelligence (AI) to automatically generate college timetables.
 
 Your task is to suggest an intelligent timetable generation system with the following features:
 
 1. Data Collection:
-   - Collect subject details, faculty availability, classroom capacity, laboratory schedules, and student sections.
+    Collect subject details, faculty availability, classroom capacity, laboratory schedules, and student sections.
 
 2. AI-Based Timetable Generation:
-   - Automatically generate weekly timetables.
-   - Assign subjects to suitable periods.
-   - Avoid faculty and classroom time conflicts.
-   - Prevent overlapping classes for students.
-   - Balance theory and practical sessions.
-
+    Automatically generate weekly timetables.
+    Assign subjects to suitable periods.
+    Avoid faculty and classroom time conflicts.
+    Prevent overlapping classes for students.
+   
 3. Smart Optimization:
-   - Distribute subjects evenly throughout the week.
-   - Consider faculty preferences and availability.
-   - Make effective use of classrooms and laboratories.
-   - Minimize unnecessary free periods.
+   Distribute subjects evenly throughout the week.
+   Consider faculty preferences and availability.
+   Make effective use of classrooms and laboratories.
+   Minimize unnecessary free periods.
 
 4. Automatic Updates:
-   - Modify timetables when faculty are absent.
-   - Reschedule cancelled classes.
-   - Notify students and faculty about timetable changes.
+    Modify timetables when faculty are absent.
+    Reschedule cancelled classes.
+    Notify students and faculty about timetable changes.
 
 5. Data Analysis:
-   - Analyze classroom utilization.
-   - Track faculty workload.
-   - Identify timetable conflicts.
-   - Generate weekly and monthly reports.
+    Analyze classroom utilization.
+    Track faculty workload.
+    Identify timetable conflicts.
+    Generate weekly and monthly reports.
 
 6. User Interface:
-   - Create separate timetable views for students, faculty, and administrators.
-   - Display the timetable in a clean table format.
-   - Use colour coding for different subjects and practical sessions.
+    Create separate timetable views for students, faculties 
+    Display the timetable in a clean table format.
+    Use colour coding for different subjects and practical sessions.
 
 7. AI Technology:
-   - Suggest suitable AI algorithms and machine learning techniques.
-   - Explain how the AI processes data and generates an optimized timetable.
+    Suggest suitable AI algorithms and machine learning techniques.
+    Explain how the AI processes data and generates an optimized timetable.
 
 Finally, provide:
-- Project overview
-- Problem statement
-- Proposed AI solution
-- System workflow
-- Key features
-- Benefits
-- Sample automatically generated college timetable
-- Future improvements
+Project overview
+Problem statement
+Proposed AI solution
+System workflow
+Key features
+Benefits
+Sample automatically generated college timetable
+Future improvements
 
 Present the output professionally, using simple language, tables, and practical college examples.
